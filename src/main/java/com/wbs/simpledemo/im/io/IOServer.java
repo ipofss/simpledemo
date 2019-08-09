@@ -1,10 +1,4 @@
-package com.wbs.simpledemo.im;
-
-/**
- * @description: TODO
- * @author: wangbingshuai
- * @create: 2019-08-08 23:51
- **/
+package com.wbs.simpledemo.im.io;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,8 +6,10 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * @author 闪电侠
- */
+ * @description: io服务端
+ * @author: wangbingshuai
+ * @create: 2019-08-08 23:51
+ **/
 public class IOServer {
     public static void main(String[] args) throws Exception {
 

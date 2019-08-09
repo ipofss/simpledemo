@@ -1,18 +1,14 @@
-package com.wbs.simpledemo.im;
-
-/**
- * @description: TODO
- * @author: wangbingshuai
- * @create: 2019-08-08 23:54
- **/
+package com.wbs.simpledemo.im.io;
 
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Date;
 
 /**
- * @author 闪电侠
- */
+ * @description: io客户端
+ * @author: wangbingshuai
+ * @create: 2019-08-08 23:54
+ **/
 public class IOClient {
 
     public static void main(String[] args) {
