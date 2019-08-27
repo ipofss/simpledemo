@@ -10,7 +10,8 @@ import io.netty.handler.codec.string.StringEncoder;
 import java.util.Date;
 
 /**
- * @description: netty客户端
+ * netty客户端
+ *
  * @author: wangbingshuai
  * @create: 2019-08-09 08:30
  **/
