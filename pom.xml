@@ -32,10 +32,17 @@
       <version>1.18.8</version>
       <scope>provided</scope>
     </dependency>
+    <!--  引入netty的相关所有包  -->
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-all</artifactId>
       <version>4.1.6.Final</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-all -->
+    <dependency>
+      <groupId>org.apache.activemq</groupId>
+      <artifactId>activemq-all</artifactId>
+      <version>5.15.9</version>
     </dependency>
   </dependencies>
 
