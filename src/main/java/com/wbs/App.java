@@ -2,6 +2,8 @@ package com.wbs;
 
 /**
  * Hello world!
+ *
+ * @author wangbingshuai
  */
 public class App {
 
